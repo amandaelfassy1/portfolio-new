@@ -8758,3 +8758,15 @@ html {
   color: #ffffff; }
 
 /*# sourceMappingURL=style.css.map */
+@media(max-width:1180px){
+  .flex-project{
+    flex-direction: column;
+    align-items: center;
+  }
+  .flex-project>div{
+    margin-bottom: 20px;
+  }
+}
+.flex-project a{
+  text-decoration: none;
+}
